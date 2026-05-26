@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+.font-mono {
+    font-family: var(--font-chivo-mono);
+}
